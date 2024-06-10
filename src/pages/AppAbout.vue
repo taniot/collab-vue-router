@@ -1,7 +1,7 @@
 <script>
 export default {
-  name: "AppAbout",
+  name: 'AppAbout',
 };
 </script>
 
-<template>About page</template>
+<template>About page / modificato da Gaetano</template>
